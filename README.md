@@ -15,9 +15,14 @@ Run ***pip install -r requirements.txt*** to install the dependencies.
 ## Usage:
 1. Run the command: ***python train.py*** to train your spacy model.
 
-![2](https://user-images.githubusercontent.com/29462447/115124861-38d76e80-9fe2-11eb-9e2c-e67661a86efc.png)
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/115124861-38d76e80-9fe2-11eb-9e2c-e67661a86efc.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/115124861-38d76e80-9fe2-11eb-9e2c-e67661a86efc.png"/> 
+</kbd>
 
 2. Run the command: ***streamlit run app.py*** to run the webapp. This will launch your webapp in a new tab :
 
-![1](https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png)
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png"/> 
+</kbd>
+![1]()
 
