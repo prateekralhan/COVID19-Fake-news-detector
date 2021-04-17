@@ -1,7 +1,7 @@
 # 🦠 COVID19 Fake news detector 🥼🧬
 The proliferation of fake news is a major challenge for modern democratic societies. Inaccurate information can affect people's health and well-being, especially during the difficult times of the COVID-19 pandemic. Furthermore, disinformation erodes public trust in democratic institutions by preventing citizens from making rational decisions based on verifiable facts.Here I have created this streamlit powered webapp which detects COVID19 related fake news.
 
-###Live web-app can be found [here.](https://covid-fake-news-detector.herokuapp.com/)
+### Live web-app can be found [here.](https://covid-fake-news-detector.herokuapp.com/)
 
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/115123562-46d5c100-9fdb-11eb-9bf7-158b040c7e00.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/115123562-46d5c100-9fdb-11eb-9bf7-158b040c7e00.gif"/> 
