@@ -1,1 +1,1 @@
-# COVID19-Fake-news-detector
+# 🦠 COVID19 Fake news detector 🥼🧬
