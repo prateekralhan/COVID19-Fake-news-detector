@@ -24,5 +24,3 @@ Run ***pip install -r requirements.txt*** to install the dependencies.
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png"/> 
 </kbd>
-![1]()
-
