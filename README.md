@@ -24,3 +24,20 @@ Run ***pip install -r requirements.txt*** to install the dependencies.
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png"/> 
 </kbd>
+
+### Running the Dockerized App
+1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
+2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).
+3. Build the Docker Image (don't forget the dot!! :smile: ): 
+```
+docker build --tag fake_news_app .
+```
+4. Run the docker:
+```
+docker run --publish 8000:8080 --detach --name fapp fake_news_app
+```
+
+This will launch the dockerized app. Navigate to ***localhost:8000*** in your browser to have a look at your application. You can check the status of your all available running dockers by:
+```
+docker ps
+```
