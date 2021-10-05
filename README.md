@@ -1,4 +1,4 @@
-# 🦠 COVID19 Fake news detector 🥼🧬
+# 🦠 COVID19 Fake news detector 🥼🧬 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 The proliferation of fake news is a major challenge for modern democratic societies. Inaccurate information can affect people's health and well-being, especially during the difficult times of the COVID-19 pandemic. Furthermore, disinformation erodes public trust in democratic institutions by preventing citizens from making rational decisions based on verifiable facts.Here I have created this streamlit powered webapp which detects COVID19 related fake news.
 
 ### Live web-app can be found [here.](https://covid-fake-news-detector.herokuapp.com/)
